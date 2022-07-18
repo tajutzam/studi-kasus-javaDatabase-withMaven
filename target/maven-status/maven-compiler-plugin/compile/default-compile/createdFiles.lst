@@ -1,0 +1,9 @@
+util\DatabaseUtil.class
+Entity\Todolist.class
+Service\TodolistServiceImpl.class
+Repository\TodolistRepositoryImpl.class
+Service\TodolistServise.class
+View\TodolistView.class
+util\utilInput.class
+programer\zaman\now\todolist\AplikasiTodolist.class
+Repository\TodolistRepository.class
